@@ -1,9 +1,9 @@
 <application>
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
-      <toolchain name="Visual Studio" toolSetKind="MSVC" toolSetPath="C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise" debuggerKind="CUSTOM_GDB" />
-      <toolchain name="Remote 128" toolSetKind="REMOTE" customCMakePath="\usr\bin\cmake" hostId="ff0d6904-ca5e-4096-8cde-7825fc564dd3" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
-      <toolchain name="Remote 95" toolSetKind="REMOTE" customCMakePath="\usr\bin\cmake" hostId="330aee4a-2e8b-4cc1-a6b5-0622ea0ce9f3" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
+      <toolchain name="Visual Studio" toolSetKind="MSVC" toolSetPath="C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise" debuggerKind="BUNDLED_LLDB" />
+      <toolchain name="Remote95" toolSetKind="REMOTE" customCMakePath="\usr\bin\cmake" hostId="08a0cac7-30b0-4e88-9b80-a58d52be008d" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
+      <toolchain name="Remote128" toolSetKind="REMOTE" customCMakePath="\usr\bin\cmake" hostId="6ab82136-b2bb-438e-a173-e7a62c111f84" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
     </toolchains>
   </component>
 </application>
