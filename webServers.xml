@@ -1,0 +1,16 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ff0d6904-ca5e-4096-8cde-7825fc564dd3" name="Remote 128 (ff0d6904-ca5e-4096-8cde-7825fc564dd3)" url="http:///">
+        <fileTransfer host="whyuweiserver.top" port="3322" accessType="SFTP">
+          <option name="port" value="3322" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="330aee4a-2e8b-4cc1-a6b5-0622ea0ce9f3" name="Remote 95 (330aee4a-2e8b-4cc1-a6b5-0622ea0ce9f3)" url="http:///">
+        <fileTransfer host="whyuweiserver.top" port="3323" accessType="SFTP">
+          <option name="port" value="3323" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
